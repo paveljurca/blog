@@ -1,5 +1,3 @@
-## [Quotes](quotes.md)
-## [Překlad slov](slova.md)
 ## [Antonín Sova](antonin-sova.md)
 ## [Dějiny a smysl](dejiny-a-smysl.md)
 ## [Vlivem internetu](vlivem-internetu.md)
